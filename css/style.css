@@ -15,7 +15,7 @@ padding-left: 0px;
 }
 header{
   width: 1200px;
-  height: 100px;
+  height: 200px;
   background-color: black;
   text-align: center;
   font-size: 35px;
@@ -31,13 +31,13 @@ nav{
   display:flex;
 }
 main{
-  height: 1300px;
+  height: 1400px;
   width: 940px;
   background-color: white;
 
 }
 aside{
-  height: 1300px;
+  height: 1400px;
   width: 145px;
   background-color: grey;
 
@@ -47,7 +47,7 @@ aside{
 
 
 footer{
-height: 200px;
+height: 150px;
 width: 1200px;
 background-color: black;
 
@@ -109,8 +109,20 @@ cursor: pointer;
   margin: 4px 10px;
   cursor: pointer;
 
-}
 
+}
+.Ramminne {
+background-color: #d1e0e0;
+border: none;
+color: black;
+padding: 15px 50px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 10px;
+cursor: pointer;
+}
 img {
   display: block;
   margin-left: auto;
